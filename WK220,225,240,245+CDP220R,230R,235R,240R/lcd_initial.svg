@@ -1,7 +1,7 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 500" width="1920" height="500">
 	<style>
 		.s0 { fill: #ffffff;stroke: #000000;stroke-width: 2.2 } 
-		.s1 { opacity: .1;fill: #000000 } 
+		.s1 { opacity: .01;fill: #000000 } 
 		.s2 { fill: #000000 } 
 		.s3 { fill: none;stroke: #000000;stroke-width: 2.2 } 
 	</style>
@@ -135,13 +135,16 @@
 			</g>
 			<g id="Keyboard Positioning">
 				<path id="Path 286" fill-rule="evenodd" class="s2" d="m1806.62 311.96h79.38v-5.58h-28.42v-40.29h17.75v-30.81h10.67v-5.58h-79.38zm4.39-76.67h24.79v30.81h19.26v40.28h-44.05z"/>
-				<path id="Path 285" fill-rule="evenodd" class="s1" d="m1636.67 327.58v-5h14.96v-8.72h9.96v13.72zm24.93-113.51v13.73h-9.96v-8.72h-14.97v-5.01z"/>
+				<path id="Path 285" fill-rule="evenodd" class="s1" d="m1636.67 327.58v-5h14.96v-8.72h9.96v13.72z"/>
+				<path id="Path 285" fill-rule="evenodd" class="s1" d="m1661.6 214.07v13.73h-9.96v-8.72h-14.97v-5.01z"/>
 				<path id="Path 287" fill-rule="evenodd" class="s1" d="m1273.34 219.48c-0.48-0.18-0.84-0.67-0.84-1.2 0-0.53 0.36-1.02 0.84-1.19l19.88-6.38q0.67-0.13 1.15 0.18 0.53 0.35 0.53 1.02v12.79q0 0.62-0.53 0.97-0.48 0.4-1.15 0.18z"/>
 				<path id="Path 287" fill-rule="evenodd" class="s1" d="m947.69 219.48c-0.48-0.18-0.84-0.67-0.84-1.2 0-0.53 0.36-1.02 0.84-1.19l19.88-6.38q0.66-0.13 1.15 0.18 0.44 0.35 0.53 1.02v12.79q-0.09 0.62-0.53 0.97-0.49 0.4-1.15 0.18z"/>
 				<path id="Path 286" fill-rule="evenodd" class="s2" d="m622.04 219.48q-0.84-0.31-0.84-1.2c0-0.53 0.31-1.02 0.84-1.19l19.88-6.38q0.62-0.13 1.15 0.18 0.49 0.35 0.49 1.02v12.79q0 0.62-0.49 0.97-0.53 0.4-1.15 0.18z"/>
-				<path id="Path 285" fill-rule="evenodd" class="s1" d="m348.98 214.07v13.73h9.96v-8.72h14.97v-5.01zm0 113.51v-13.72h9.96v8.72h14.96v5z"/>
+				<path id="Path 285" fill-rule="evenodd" class="s1" d="m348.98 327.58v-13.72h9.96v8.72h14.96v5z"/>
+				<path id="Path 285" fill-rule="evenodd" class="s1" d="m348.98 214.07v13.73h9.96v-8.72h14.97v-5.01z"/>
 				<path id="Path 278" fill-rule="evenodd" class="s1" d="m296.39 219.48c-0.53-0.18-0.89-0.67-0.89-1.2 0-0.53 0.36-1.02 0.89-1.19l19.88-6.38q0.62-0.13 1.15 0.18 0.48 0.35 0.48 1.02v12.79q0 0.62-0.48 0.97-0.53 0.4-1.15 0.18z"/>
-				<path id="Path 284" fill-rule="evenodd" class="s1" d="m210.42 214.07v13.73h9.96v-8.72h14.96v-5.01zm0 113.51v-13.72h9.96v8.72h14.96v5z"/>
+				<path id="Path 284" fill-rule="evenodd" class="s1" d="m210.42 327.58v-13.72h9.96v8.72h14.96v5z"/>
+				<path id="Path 284" fill-rule="evenodd" class="s1" d="m210.42 214.07v13.73h9.96v-8.72h14.96v-5.01z"/>
 				<path id="Path 286" fill-rule="evenodd" class="s2" d="m113.33 229.7h-79.37v5.58h10.66v30.81h17.76v40.29h-28.42v5.58h79.37zm-4.34 76.67h-44.09v-40.28h19.26v-30.82h24.83z"/>
 			</g>
 			<g id="Recorder / Registration Display">

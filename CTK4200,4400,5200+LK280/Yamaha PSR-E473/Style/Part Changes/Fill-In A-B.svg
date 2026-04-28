@@ -2,7 +2,7 @@
 	<style>
 		.s0 { fill: #ffffff;stroke: #000000;stroke-width: 3 } 
 		.s1 { opacity: .01;fill: #000000 } 
-		.s2 { opacity: .1;fill: #000000 } 
+		.s2 { opacity: .01;fill: #000000 } 
 		.s3 { fill: #000000 } 
 		.s4 { fill: none;stroke: #000000;stroke-width: 3 } 
 	</style>
@@ -136,13 +136,16 @@
 			</g>
 			<g id="Keyboard Positioning">
 				<path id="Path 324" fill-rule="evenodd" class="s2" d="m1824.44 312.45q-0.78 0.78-0.84 1.91v119.53q0.06 1.14 0.84 1.92 0.78 0.78 1.86 0.78h72.31v-6.54h-22.35v-62.72h15.88v-49.13h6.47v-6.53h-72.31q-1.08 0-1.86 0.78zm4.37 5.75h23.79v49.13h20.73v62.72h-44.52z"/>
-				<path id="Path 75" fill-rule="evenodd" class="s2" d="m1676.22 293.04v16.35h-11.8v-10.42h-17.8v-5.93zm-29.6 162.18v-5.93h17.8v-10.43h11.8v16.36z"/>
+				<path id="Path 75" fill-rule="evenodd" class="s2" d="m1646.62 455.22v-5.93h17.8v-10.43h11.8v16.36z"/>
+				<path id="Path 75" fill-rule="evenodd" class="s2" d="m1676.22 293.04v16.35h-11.8v-10.42h-17.8v-5.93z"/>
 				<path id="Path 72" fill-rule="evenodd" class="s2" d="m1274.03 300.7q-1.02-0.35-1.02-1.43 0-1.02 1.02-1.38l23.6-7.67q0.72-0.18 1.32 0.24 0.6 0.48 0.66 1.2v15.28q-0.06 0.71-0.66 1.19-0.6 0.42-1.32 0.18z"/>
 				<path id="Path 72" fill-rule="evenodd" class="s2" d="m941.88 300.7c-0.6-0.17-1.02-0.77-1.02-1.43q0-1.02 1.02-1.38l23.6-7.67q0.72-0.18 1.32 0.24 0.6 0.48 0.66 1.2v15.28q-0.06 0.71-0.66 1.19-0.6 0.42-1.32 0.18z"/>
 				<path id="Path 34" fill-rule="evenodd" class="s3" d="m609.72 300.7q-1.01-0.35-1.01-1.43 0-1.02 1.01-1.38l23.61-7.67q0.72-0.18 1.32 0.24 0.6 0.48 0.6 1.2v15.28q0 0.71-0.6 1.19-0.6 0.42-1.32 0.18z"/>
-				<path id="Path 73" fill-rule="evenodd" class="s2" d="m335.81 455.22v-16.36h11.8v10.43h17.79v5.93zm29.6-162.18v5.93h-17.79v10.42h-11.81v-16.35z"/>
+				<path id="Path 73" fill-rule="evenodd" class="s2" d="m348.98 327.58v-13.72h9.96v8.72h14.96v5z"/>
+				<path id="Path 73" fill-rule="evenodd" class="s2" d="m365.41 293.04v5.93h-17.79v10.42h-11.81v-16.35z"/>
 				<path id="Path 72" fill-rule="evenodd" class="s2" d="m277.57 300.7q-1.02-0.35-1.08-1.43 0.06-1.02 1.08-1.38l23.61-7.67q0.72-0.18 1.32 0.24 0.59 0.48 0.59 1.2v15.28q0 0.71-0.59 1.19-0.6 0.42-1.32 0.18z"/>
-				<path id="Path 73" fill-rule="evenodd" class="s2" d="m194.41 293.04v16.35h11.81v-10.42h17.79v-5.93zm0 162.18v-16.36h11.8v10.43h17.8v5.93z"/>
+				<path id="Path 73" fill-rule="evenodd" class="s2" d="m194.41 455.22v-16.36h11.8v10.43h17.8v5.93z"/>
+				<path id="Path 73" fill-rule="evenodd" class="s2" d="m194.41 293.04v16.35h11.81v-10.42h17.79v-5.93z"/>
 				<path id="Path 324" fill-rule="evenodd" class="s2" d="m93.64 311.67h-72.25v6.53h6.41v49.13h15.88v62.72h-22.29v6.54h72.25q1.14 0 1.92-0.78 0.78-0.78 0.78-1.92v-119.53q0-1.13-0.78-1.91-0.78-0.78-1.92-0.78zm-2.51 118.38h-44.46v-62.72h20.73v-49.13h23.73z"/>
 			</g>
 			<g id="Recorder / Registration Display">
